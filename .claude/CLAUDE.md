@@ -39,13 +39,17 @@ Primary source: `~/aichat` — WeChat chat archive from 30+ Chinese tech communi
 3. **Each material gets its own file** — named descriptively (e.g., `kent-beck-tdd-ai.md`, `community-agent-red-team.md`)
 4. **Synthesis is a separate step** — only extract patterns and update the framework when explicitly asked
 
-### Five-Layer Model
+### Framework Structure
 
-1. **Specification & Contract** — PRD as machine-readable instruction set
-2. **Quality Control** — TDD revival, testing as the new bottleneck
-3. **Pipeline & Orchestration** — Skills as job descriptions, subagent delegation
-4. **Adversarial & Verification** — Red team, commissar role, independent audit
-5. **Governance & Evolution** — Organisational learning, skill standardisation
+**Core question:** How to organise AI and human agents for SDLC?
+
+Four pillars (dependency chain: Spec → Verify → Orchestrate → Evolve):
+1. **Specification** — What to build. PRD as machine-readable instruction, acceptance criteria as evaluation functions
+2. **Verification** — How to know it's right. TDD, adversarial review, correctness vs fitness
+3. **Orchestration** — How to organise the work. Skills, delegation, team structure, platform engineering first
+4. **Evolution** — How to get better over time. Skill standardisation, organisational learning, SECI gap
+
+Cross-cutting concerns: Context Pollution (pathology to prevent), Feedback Loops (mechanism to build)
 
 ### Key Theoretical Anchors
 
