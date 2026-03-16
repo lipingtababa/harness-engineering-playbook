@@ -1,7 +1,9 @@
 # Framework: How to Organise AI and Human Agents for SDLC
 
 > Core question: How do you organise AI and human agents to deliver software reliably?
+
 > Thesis: AI coding is not a tooling problem, it's a management problem — organising agents for outcomes.
+
 > Structure: One question, four pillars, cross-cutting concerns
 
 ---
