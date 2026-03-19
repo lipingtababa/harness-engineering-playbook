@@ -2,6 +2,8 @@
 
 如何组织 AI 与人类完成可靠的软件交付
 
+**AgentZones 社区集体创作** | 主编：[你的名字]
+
 ## 从 Copilot 到 Vibe Coding
 
 2022年，GitHub Copilot 开始大规模普及。程序员在编辑器里获得了一个实时的代码补全助手，写代码的体感速度明显提升。2023年，ChatGPT 和 Claude 让对话式编程成为可能：描述你想要的功能，AI 生成整段代码。2024年，Cursor、Windsurf 等 AI-native 编辑器进一步降低了门槛，Andrej Karpathy 将这种工作方式命名为 Vibe Coding：凭感觉写 prompt，让 AI 生成代码，能跑就行。

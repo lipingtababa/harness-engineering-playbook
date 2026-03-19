@@ -47,3 +47,7 @@
   * [先定边界再放 Agent：Conway 定律仍然适用](chapters/06e-conway.md)
   * [没有银弹，但有原则](chapters/06f-principles.md)
 * [新时代的组织资产](chapters/07-beyond.md)
+
+---
+
+* [贡献者](contributors.md)
