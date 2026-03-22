@@ -1,0 +1,11 @@
+# How Many Can You Manage: Span of Control
+
+Infrastructure is in place, and isolation and integration mechanisms are running smoothly. The next question is: how many Agents can you manage simultaneously?
+
+The upper limit of span of control is determined by the maturity of verification automation. If every Agent's output requires your manual review, the number of Agents you can manage is limited by your review bandwidth, likely two or three. If the verification system is sufficiently automated (adversarial verification from Chapter 3, Trophy tests, continuous integration), your review work shrinks to checking gap reports and handling exceptions, and your span of control can expand to ten or more.
+
+Expanding span of control has clear prerequisites. Acceptance criteria coverage needs to reach a certain threshold; otherwise, areas not covered by automated verification still require manual checking. CI must be stable with a low false positive rate; otherwise, your time is spent distinguishing real problems from noise rather than solving actual issues. The domain needs to be relatively stable; if the rate of requirement changes is too high, Agent specs need frequent updates, and your time gets consumed by spec maintenance. Task types need to be bounded; if every task is an entirely new type of problem, Skill cards and existing spec templates cannot be reused, and you have to design from scratch each time.
+
+When these prerequisites are met, span of control can be expanded through automation. When the prerequisites are not met, the right approach is to invest in the prerequisites first (improve acceptance criteria coverage, stabilize CI, standardize task types) rather than pushing to add more Agents.
+
+In practice, the composition of an Agent team can be adjusted on an hourly cycle. This is entirely different from human teams, which adjust on a monthly cycle. An Agent that has completed its current task can be immediately reassigned to another module. A module that needs acceleration can temporarily get an additional Agent. This flexibility is a direct benefit of Agents' zero marginal cost characteristic, but leveraging it effectively requires that your platform engineering and management mechanisms are already in place.

@@ -1,5 +1,4 @@
 {
   "title": "AgentZones Playbook",
-  "language": "zh-hans",
   "plugins": ["-sharing", "expandable-chapters"]
 }
