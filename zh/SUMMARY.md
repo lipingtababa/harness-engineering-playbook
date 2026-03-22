@@ -39,8 +39,9 @@
     * [毫秒级反馈：静态分析与代码规范](chapters/05c1-linters.md)
     * [秒到分钟级反馈：CI/CD 作为反馈通道](chapters/05c2-cicd.md)
     * [分钟到天级反馈：可观测性](chapters/05c3-observability.md)
-    * [环境即代码：可复现性是反馈可靠的前提](chapters/05c4-iac.md)
-    * [当信号亮红灯：Agent 的排错能力](chapters/05c5-troubleshooting.md)
+    * [业务质量的度量：Benchmark 驱动的反馈环](chapters/05c4-benchmark.md)
+    * [环境即代码：可复现性是反馈可靠的前提](chapters/05c5-iac.md)
+    * [当信号亮红灯：Agent 的排错能力](chapters/05c6-troubleshooting.md)
   * [你能管多少个：管理幅度](chapters/05d-span.md)
 
 ### 卷三：治理百倍速的组织
