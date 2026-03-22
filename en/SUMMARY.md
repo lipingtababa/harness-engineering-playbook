@@ -35,6 +35,11 @@
   * [Two Agents at Once: Conflicts and Isolation](chapters/05a-isolation.md)
   * [Each One Correct, Together They Explode: Contracts and Integration](chapters/05b-integration.md)
   * [Build the Runway Before Launching the Planes: Platform Engineering First](chapters/05c-platform.md)
+    * [Millisecond Feedback: Static Analysis and Code Standards](chapters/05c1-linters.md)
+    * [Seconds-to-Minutes Feedback: CI/CD as a Feedback Channel](chapters/05c2-cicd.md)
+    * [Minutes-to-Days Feedback: Observability](chapters/05c3-observability.md)
+    * [Environment as Code: Reproducibility as the Foundation of Reliable Feedback](chapters/05c4-iac.md)
+    * [When the Signal Turns Red: Agent Troubleshooting Capability](chapters/05c5-troubleshooting.md)
   * [How Many Can You Manage: Span of Control](chapters/05d-span.md)
 
 ### Part III: Governing the 100x Organization
