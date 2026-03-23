@@ -3,7 +3,9 @@
   "private": true,
   "scripts": {
     "serve": "honkit serve",
-    "build": "honkit build"
+    "build": "honkit build",
+    "lint": "echo 'no linter configured'",
+    "test": "echo 'no tests configured'"
   },
   "devDependencies": {
     "gitbook-plugin-expandable-chapters": "^0.2.0",
