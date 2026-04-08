@@ -66,11 +66,6 @@ Vibe Codingは出発点だ。フィーリングでプロンプトを書き、AI�
 
 ---
 
-* [AIの構造的特性とエンジニアリング課題](chapters/01-framework.md)
-  * [Agentの仕組み](chapters/01a-how-agents-work.md)
-  * [AIの構造的特性](chapters/01b-characteristics.md)
-  * [AI変革が行き詰まる理由](chapters/01c-why-transformation-fails.md)
-
 ### Part I: 信頼性あるAgent Programming（1→10倍）
 
 * [仕様：Agentとの意図アラインメント](chapters/02-specification.md)

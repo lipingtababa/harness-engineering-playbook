@@ -1,11 +1,6 @@
 # Table of Contents
 
-* [Preface](preface.md)
 * [Introduction: From Vibe Coding to Harness Engineering](chapters/00-introduction.md)
-* [Structural Characteristics of AI and Engineering Challenges](chapters/01-framework.md)
-  * [How Agents Work](chapters/01a-how-agents-work.md)
-  * [Structural Characteristics of AI](chapters/01b-characteristics.md)
-  * [Why Your AI Transformation Is Stuck](chapters/01c-why-transformation-fails.md)
 
 ### Part I: Reliable Agent Programming (1.5x → 5-10x)
 

@@ -1,11 +1,6 @@
 # 目录
 
-* [序言](preface.md)
 * [引言：从 Vibe Coding 到 Harness Engineering](chapters/00-introduction.md)
-* [AI 的结构性特征与工程挑战](chapters/01-framework.md)
-  * [Agent 是怎么工作的](chapters/01a-how-agents-work.md)
-  * [AI的结构性特征](chapters/01b-characteristics.md)
-  * [为什么你的 AI 转型举步维艰](chapters/01c-why-transformation-fails.md)
 
 ### 卷一：可靠的 Agent 编程（1.5x → 5-10x）
 

@@ -1,11 +1,6 @@
 # 目次
 
-* [まえがき](preface.md)
 * [はじめに：Vibe CodingからHarness Engineeringへ](chapters/00-introduction.md)
-* [AIの構造的特性とエンジニアリング課題](chapters/01-framework.md)
-  * [Agentの仕組み](chapters/01a-how-agents-work.md)
-  * [AIの構造的特性](chapters/01b-characteristics.md)
-  * [AI変革が行き詰まる理由](chapters/01c-why-transformation-fails.md)
 
 ### 第一巻：信頼性あるAgent Programming（1.5倍 → 5-10倍）
 

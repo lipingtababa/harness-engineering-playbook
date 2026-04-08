@@ -66,11 +66,6 @@ The book unfolds along a productivity ladder. Chapter 1 analyzes the structural 
 
 ## Table of Contents
 
-* [Structural Characteristics of AI and Engineering Challenges](chapters/01-framework.md)
-  * [How Agents Work](chapters/01a-how-agents-work.md)
-  * [Structural Characteristics of AI](chapters/01b-characteristics.md)
-  * [Why Your AI Transformation Is Stuck](chapters/01c-why-transformation-fails.md)
-
 ### Part I: Reliable Agent Programming (1→10x)
 
 * [Specification: Aligning Intent with the Agent](chapters/02-specification.md)

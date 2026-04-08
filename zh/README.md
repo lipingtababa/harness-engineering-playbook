@@ -66,11 +66,6 @@ Vibe Coding 是起点：凭感觉写 prompt，让 AI 生成代码，能跑就行
 
 ---
 
-* [AI 的结构性特征与工程挑战](chapters/01-framework.md)
-  * [Agent 是怎么工作的](chapters/01a-how-agents-work.md)
-  * [AI的结构性特征](chapters/01b-characteristics.md)
-  * [为什么你的 AI 转型举步维艰](chapters/01c-why-transformation-fails.md)
-
 ### 卷一：可靠的 Agent 编程 (1→10x)
 
 * [规约：与 Agent 对齐意图](chapters/02-specification.md)
